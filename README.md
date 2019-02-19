@@ -59,7 +59,7 @@ Now you should see all four packages available for use in your project.
 Brief Github tutorial:
 
 <p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.PNG">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
 </p>
 
 <p align="center">
@@ -71,5 +71,5 @@ Brief Github tutorial:
 </p>
 
 <p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.PNG">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
 </p>
