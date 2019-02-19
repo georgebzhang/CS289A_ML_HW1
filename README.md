@@ -49,3 +49,6 @@ Search all four packages (numpy, matplotlib, scikit-learn, and scipy), and click
 <p align="center">
   <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/8.PNG">
 </p>
+
+Brief Github tutorial:
+
