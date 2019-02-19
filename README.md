@@ -1,9 +1,8 @@
 # CS289A_ML_HW1
 UC Berkeley CS289A Machine Learning
 
-<arg = 2>
-
 ## Running in PyCharm
-<img src="https://drive.google.com/uc?export=view&id=1HmgpcMOW-Wkc0seZJt3o5QLvLbqad8PS" align="middle"/>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/1.PNG">
+</p>
 
-![image](https://drive.google.com/uc?export=view&id=1HmgpcMOW-Wkc0seZJt3o5QLvLbqad8PS)
