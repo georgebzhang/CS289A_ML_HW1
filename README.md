@@ -27,7 +27,7 @@ We need to set up the Virtualenv Environment.
 </p>
 
 <p align="left">
-  Click "Settings" or press <kbd>Ctrl</kbd> + `Alt` + `S`.
+  Click "Settings" or press <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>.
 </p>
 
 <p align="center">
@@ -64,7 +64,9 @@ Brief Github tutorial:
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
 </p>
 
-Click VCS -> 
+<p align="left">
+  Click "VCS"&uparrow;"Commit".
+</p>
 
 <p align="center">
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
