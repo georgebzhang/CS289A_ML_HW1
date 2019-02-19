@@ -65,7 +65,7 @@ Brief Github tutorial:
 </p>
 
 <p align="left">
-  Click "VCS"&uparrow;"Commit".
+  Click "VCS"&rarrow;"Commit".
 </p>
 
 <p align="center">
