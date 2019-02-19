@@ -44,10 +44,16 @@ We need to install packages (numpy, matplotlib, scikit-learn, and scipy). Click 
   <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/7.PNG">
 </p>
 
-Search all four packages (numpy, matplotlib, scikit-learn, and scipy), and click "Install Packages". In case you want to "Specify version" to install and older version you can.
+Search all four packages (numpy, matplotlib, scikit-learn, and scipy), and click "Install Packages". In case you want to "Specify version" to install and older version, you can.
 
 <p align="center">
   <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/8.PNG">
+</p>
+
+Now you should see all four packages available for use in your project.
+
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/9.PNG">
 </p>
 
 Brief Github tutorial:
