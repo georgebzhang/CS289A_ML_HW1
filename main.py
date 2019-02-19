@@ -16,4 +16,3 @@ for data_name in ["mnist", "spam", "cifar10"]:
     fields = "test_data", "training_data", "training_labels"
     for field in fields:
         print(field, data[field].shape)
-d
