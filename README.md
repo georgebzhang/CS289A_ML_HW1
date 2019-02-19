@@ -1,9 +1,13 @@
 # CS289A_ML_HW1
 UC Berkeley CS289A Machine Learning
 
-<arg = 2>
+[arbitrary case-insensitive reference text]: https://www.somewebsite.org
 
 ## Running in PyCharm
-<img src="https://drive.google.com/uc?export=view&id=1HmgpcMOW-Wkc0seZJt3o5QLvLbqad8PS" align="middle"/>
+<img src="/Readme_Images/1.png" width="800px" align="center"/>
 
-![image](https://drive.google.com/uc?export=view&id=1HmgpcMOW-Wkc0seZJt3o5QLvLbqad8PS)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+![Alt text](/Readme_Images/1.png "Optional title" )
