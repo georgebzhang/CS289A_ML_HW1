@@ -15,5 +15,5 @@ Select Git.
 Copy the link here.
 
 <p align="center">
-  <img width="450" height="300" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/3.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/3.PNG">
 </p>
