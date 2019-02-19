@@ -58,3 +58,18 @@ Now you should see all four packages available for use in your project.
 
 Brief Github tutorial:
 
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.PNG">
+</p>
+
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
+</p>
+
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
+</p>
+
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.PNG">
+</p>
