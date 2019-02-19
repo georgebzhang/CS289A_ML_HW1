@@ -20,12 +20,16 @@ Copy the link here.
   <img width="500" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/3.PNG">
 </p>
 
-<p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/4.PNG">
-</p>
+We need to set up the Virtualenv Environment.
 
 <p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/5.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/4.png">
+</p>
+
+Press `Ctrl` + `Alt` + `S`
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/5.png">
 </p>
 
 <p align="center">
