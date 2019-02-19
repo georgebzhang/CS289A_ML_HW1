@@ -26,8 +26,8 @@ We need to set up the Virtualenv Environment.
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/4.png">
 </p>
 
-<p align="center">
-  Click "Settings" or press <kbd>Ctrl<\kbd> + `Alt` + `S`.
+<p align="left">
+  Click "Settings" or press <kbd>Ctrl</kbd> + `Alt` + `S`.
 </p>
 
 <p align="center">
