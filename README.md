@@ -26,7 +26,7 @@ We need to set up the Virtualenv Environment.
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/4.png">
 </p>
 
-Click "Settings" or press `Ctrl` + `Alt` + `S`.
+Click "Settings" or press <kbd>Ctrl<\kbd> + `Alt` + `S`.
 
 <p align="center">
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/5.png">
@@ -59,17 +59,19 @@ Now you should see all four packages available for use in your project.
 Brief Github tutorial:
 
 <p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
+</p>
+
+Click VCS -> 
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
 </p>
 
 <p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
 </p>
 
 <p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
-</p>
-
-<p align="center">
-  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
 </p>
