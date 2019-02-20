@@ -60,22 +60,42 @@ Now you should see all four packages available for use in your project.
 
 Brief Github tutorial:
 
-<p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
-</p>
-
 <p align="left">
   Click "VCS"&rarr;"Commit..." or the green "&check;" symbol.
 </p>
 
 <p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
 </p>
 
+Click "Commit and Push...".
+
 <p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.png">
 </p>
+
+Click "Push"
+
+<p align="center">
+  <img width="500" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
+</p>
+
+In case you add extra folders or files, they may be classified as "Unversioned Files" (will not be pushed to Github). Click "Version Control" near the bottom left.
 
 <p align="center">
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
 </p>
+
+Click "browse".
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/14.png">
+</p>
+
+Right click whatever folder or file you wish to be pushed to Github, and click "Add to VCS".
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/15.png">
+</p>
+
+Then commit and push as you would normally.
