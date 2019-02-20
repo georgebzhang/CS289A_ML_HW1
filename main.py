@@ -1,3 +1,5 @@
+# Part 1: Python Configuration and Data Loading
+
 import sys
 if sys.version_info[0] < 3:
     raise Exception("Python 3 not detected.")
@@ -8,14 +10,17 @@ import csv
 from sklearn import svm
 from scipy import io
 
-np.random.seed(69)
-
 for data_name in ["mnist", "spam", "cifar10"]:
     data = io.loadmat("data/%s_data.mat" % data_name)
     print("\nloaded %s data!" % data_name)
     fields = "test_data", "training_data", "training_labels"
     for field in fields:
         print(field, data[field].shape)
+
+
+# Part 2: Data Partitioning
+
+np.random.seed(69)
 
 # mnist
 mnist_data = io.loadmat("data/%s_data.mat" % "mnist")
@@ -112,6 +117,8 @@ print("cifar10 training set has size", cifar10_train_set.shape)
 # plt.imshow(rgb)
 # plt.show()
 
+# Part 3: Support Vector Machines: Coding
+
 # SVM on mnist
 # clf = svm.SVC(kernel='linear')
 # print(mnist_train_set.shape)
@@ -148,8 +155,6 @@ print("cifar10 training set has size", cifar10_train_set.shape)
 # print("spam classifier has accuracy", spam_train_accuracy, "on the training set data")
 # print("spam classifier has accuracy", spam_val_accuracy, "on the validation set data")
 
-
-
 # SVM on cifar10
 # clf = svm.SVC(kernel='linear')
 # print(cifar10_train_set.shape)
@@ -161,3 +166,10 @@ print("cifar10 training set has size", cifar10_train_set.shape)
 # cifar10_val_accuracy = (cifar10_val_set_labels.ravel() == cifar10_val_results).sum()/cifar10_val_set_labels.shape[0]
 # print("cifar10 classifier has accuracy", cifar10_train_accuracy, "on the training set data")
 # print("cifar10 classifier has accuracy", cifar10_val_accuracy, "on the validation set data")
+
+# Part 4: Hyperparameter Tuning
+
+# Part 5: K-Fold Cross-Validation
+
+# Part 6: Kaggle
+
