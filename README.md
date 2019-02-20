@@ -79,3 +79,11 @@ Brief Github tutorial:
 <p align="center">
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
 </p>
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/14.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/15.png">
+</p>
