@@ -26,7 +26,9 @@ We need to set up the Virtualenv Environment.
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/4.png">
 </p>
 
-Click "Settings" or press `Ctrl` + `Alt` + `S`.
+<p align="left">
+  Click "Settings" or press <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd>.
+</p>
 
 <p align="center">
   <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/5.png">
@@ -44,11 +46,36 @@ We need to install packages (numpy, matplotlib, scikit-learn, and scipy). Click 
   <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/7.PNG">
 </p>
 
-Search all four packages (numpy, matplotlib, scikit-learn, and scipy), and click "Install Packages". In case you want to "Specify version" to install and older version you can.
+Search all four packages (numpy, matplotlib, scikit-learn, and scipy), and click "Install Packages". In case you want to "Specify version" to install and older version, you can.
 
 <p align="center">
   <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/8.PNG">
 </p>
 
+Now you should see all four packages available for use in your project.
+
+<p align="center">
+  <img width="750" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/9.png">
+</p>
+
 Brief Github tutorial:
 
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/10.png">
+</p>
+
+<p align="left">
+  Click "VCS"&rarr;"Commit..." or the green "&check;" symbol.
+</p>
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/13.png">
+</p>
