@@ -69,11 +69,11 @@ Brief Github tutorial:
 </p>
 
 <p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.PNG">
+  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/11.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
+  <img width="500" src="https://github.com/georgebzhang/CS289A_ML_HW1/blob/master/Readme_Images/12.PNG">
 </p>
 
 <p align="center">
