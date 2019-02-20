@@ -102,6 +102,6 @@ Then commit and push as you would normally.
 
 For large files (.mat) in this case, Git LFS should be used. Download and install Git LFS (make sure to add to PATH when installing). In Command Prompt, cd to local repository. Enter the following commands:
 
-git config http.postBuffer 2097152000
-git lfs install
+git config http.postBuffer 2097152000__
+git lfs install__
 git lfs track *.mat
