@@ -101,10 +101,10 @@ Right click whatever folder or file you wish to be pushed to Github, and click "
 Then commit and push as you would normally.
 
 <p align="left">
-  For large files (.mat) in this case, Git LFS should be used. Download and install Git LFS (make sure to add to PATH when installing). In Command Prompt, cd to local repository. Enter the following commands:
+  For large files (.mat) in this case, Git LFS should be used. Download and install Git LFS (make sure to add to PATH when installing). In Command Prompt, cd to local repository. Enter the following commands: <br />
   
-  git config http.postBuffer 2097152000__
-  git lfs install__
+  git config http.postBuffer 2097152000 <br />
+  git lfs install <br />
   git lfs track *.mat
 </p>
 
